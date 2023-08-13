@@ -1,4 +1,4 @@
-# Visualization Dashboard
+# Article Listing with Dynamic Filters
 ## Table of Contents:
 - Overview
 - Features
